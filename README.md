@@ -1,5 +1,7 @@
 # Installation Steps
 
+[One drive - Course Materials](https://esriis-my.sharepoint.com/:f:/r/personal/kyun4731_esri_com/Documents/ACP%20Workshop?csf=1&web=1&e=WxVk6a)
+
 ### 0. Install [Notepad++](https://notepad-plus-plus.org/) and [7-Zip](https://www.7-zip.org/)
 
 ### 1. Start ArcGIS Pro
